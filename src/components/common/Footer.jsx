@@ -43,12 +43,12 @@ export const Footer = () => {
               <h4>Contact us</h4>
               <ul>
                 <li>
-                  <a href="mailto:horrorj18@gmail.com?body=fell free to type">
+                  <a href="mailto:agamsuthar1003@gmail.com?body=fell free to type">
                     Gmail
                   </a>
                 </li>
                 <li>
-                  <a href="tel:9999999999">Helpline No</a>
+                  <a href="tel:8955020243">Helpline No</a>
                 </li>
               </ul>
             </div>
@@ -56,18 +56,13 @@ export const Footer = () => {
               <h4>follow us</h4>
               <div className="social-links">
                 <a
-                  href="https://www.linkedin.com/in/darshan-jaju-73b237223/"
+                  href="https://www.linkedin.com/in/agam-swarup-b82aa0217/"
                   target="blank"
                 >
                   <FaLinkedin className=" mx-auto mt-3 scale-125" />
                 </a>
-                <a href="https://twitter.com/Darshanjaju5" target="blank">
-                  <FaTwitter className=" mx-auto mt-3 scale-125" />
-                </a>
 
-                <a href="https://www.instagram.com/dj__260/" target="blank">
-                  <FaInstagram className=" mx-auto mt-3 scale-125" />
-                </a>
+      
               </div>
             </div>
           </div>
